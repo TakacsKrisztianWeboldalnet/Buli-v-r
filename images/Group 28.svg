@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="163" height="163" viewBox="0 0 163 163">
+  <defs>
+    <filter id="Ellipse_1" x="0" y="0" width="163" height="163" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_28" data-name="Group 28" transform="translate(-415 -877)">
+    <g transform="matrix(1, 0, 0, 1, 415, 877)" filter="url(#Ellipse_1)">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="51.5" cy="51.5" r="51.5" transform="translate(30 20)" fill="#fff"/>
+    </g>
+    <g id="product" transform="translate(470.145 921.645)">
+      <path id="Path_8" data-name="Path 8" d="M428.177,93.088V90h-3.088v3.088H422v3.088h3.089v3.088h3.088V96.177h3.089V93.088Z" transform="translate(-378.555 -80.735)" fill="#3b3b3d"/>
+      <path id="Path_9" data-name="Path 9" d="M3.088,99.265H6.177V96.177H9.265V93.088H6.177V90H3.088v3.088H0v3.088H3.088Z" transform="translate(0 -80.735)" fill="#3b3b3d"/>
+      <path id="Path_10" data-name="Path 10" d="M365.089,9.265h3.089V6.177h3.088V3.088h-3.088V0h-3.089V3.088H362V6.177h3.089Z" transform="translate(-324.732)" fill="#3b3b3d"/>
+      <path id="Path_11" data-name="Path 11" d="M63.088,9.265h3.088V6.177h3.088V3.088H66.177V0H63.088V3.088H60V6.177h3.088Z" transform="translate(-53.823)" fill="#3b3b3d"/>
+      <path id="Path_12" data-name="Path 12" d="M26.714,216.455,22.678,210H.4l6.136,9.811v21.28H46.892v-21.28L53.028,210H30.75ZM5.98,213.088h14.99l2.965,4.736h-15ZM9.624,238v-17.09H25.17V238Zm18.634,0v-17.09H43.8V238Zm19.19-24.914-2.965,4.736H29.5l2.955-4.736Z" transform="translate(-0.359 -188.381)" fill="#3b3b3d"/>
+      <path id="Path_13" data-name="Path 13" d="M139.7,14.166l8.277,1.215,3.7,7.536,3.7-7.536,8.277-1.215L157.654,8.3,159.075,0l-7.4,3.912L144.271,0l1.41,8.287Zm8.668-8.5,3.3,1.75,3.3-1.75-.628,3.706,2.7,2.646-3.727.546L151.673,15.9l-1.637-3.346L146.309,12l2.7-2.636Z" transform="translate(-125.318)" fill="#3b3b3d"/>
+    </g>
+  </g>
+</svg>
